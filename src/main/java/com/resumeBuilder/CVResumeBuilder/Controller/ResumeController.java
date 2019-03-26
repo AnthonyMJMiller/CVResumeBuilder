@@ -11,5 +11,7 @@ public class ResumeController {
 	public ModelAndView cvResume() {
 		return new ModelAndView("CV");
 	}
+	
+	
 
 }
