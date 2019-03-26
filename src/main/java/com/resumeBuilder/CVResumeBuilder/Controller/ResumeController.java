@@ -8,8 +8,8 @@ import org.springframework.web.servlet.ModelAndView;
 public class ResumeController {
 	
 	@RequestMapping("/")
-	public ModelAndView cvResume() {
-		return new ModelAndView("CV");
+	public ModelAndView index() {
+		return new ModelAndView("index");
 	}
 	
 	

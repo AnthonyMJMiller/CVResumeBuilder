@@ -9,7 +9,7 @@
 <title>Resume Builder</title>
 </head>
 <body>
-
+<p>Test</p>
 	<div class="form-group">
 		<label for="search">Search:</label>
 		<input type="text" class="form-control" id="search">
